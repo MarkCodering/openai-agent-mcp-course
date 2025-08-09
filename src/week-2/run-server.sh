@@ -1,0 +1,1 @@
+mcp dev mcp-server.py
